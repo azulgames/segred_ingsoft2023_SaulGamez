@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Bandit/Level 10 a level 11.md",
+                "file": "Retos-Bandit/level 21 to level 22.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos-Bandit/Plantilla.md",
+                "file": "Retos-Bandit/level 17 to level 18.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos-Bandit/Plantilla.md",
+                "file": "Retos-Bandit/level 21 to level 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos-Bandit/Plantilla.md",
+                "file": "Retos-Bandit/level 21 to level 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos-Bandit/Plantilla.md"
+                "file": "Retos-Bandit/level 21 to level 22.md"
               }
             }
           },
@@ -205,24 +205,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dfea8d725efe22fa",
+  "active": "f05c0d34cd58eadb",
   "lastOpenFiles": [
-    "Retos-Bandit/level 15 to level 16.md",
-    "Retos-Bandit/level 14 to level 15.md",
-    "Retos-Bandit/level 13 to level 14.md",
-    "Retos-Bandit/level 12 to level 13.md",
-    "Retos-Bandit/Level 11 to level 12.md",
-    "Retos-Bandit/Level 10 a level 11.md",
-    "Retos-Bandit/level 24 to level 25.md",
-    "Retos-Bandit/level 23 to level 24.md",
     "Retos-Bandit/level 22 to level 23.md",
     "Retos-Bandit/level 21 to level 22.md",
     "Retos-Bandit/level 20 to level 21.md",
     "Retos-Bandit/level 19 to level 20.md",
+    "Retos-Bandit/level 23 to level 24.md",
     "Retos-Bandit/level 18 to level 19.md",
     "Retos-Bandit/level 17 to level 18.md",
     "Retos-Bandit/level 16 to level 17.md",
+    "Retos-Bandit/level 15 to level 16.md",
+    "Retos-Bandit/Level 10 a level 11.md",
     "Retos-Bandit/Plantilla.md",
+    "Retos-Bandit/level 14 to level 15.md",
+    "Retos-Bandit/level 13 to level 14.md",
+    "Retos-Bandit/level 12 to level 13.md",
+    "Retos-Bandit/Level 11 to level 12.md",
+    "Retos-Bandit/level 24 to level 25.md",
     "README.md",
     "Retos-Bandit/Level 9 to level 10.md",
     "Retos-Bandit/Level 8 to level 9.md",

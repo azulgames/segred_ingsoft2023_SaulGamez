@@ -8,7 +8,7 @@ There is a setuid binary in the homedirectory that does the following: it makes 
 ```
 Host: bandit.labs.overthewire.org  
 user: bandit20
-pasword: *
+pasword: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 Port: 2220
 ```
 
@@ -20,11 +20,24 @@ ssh bandit20@bandit.labs.overthewire.org -p 2220
 ### Solución 
 
 ``` bash
+bandit20@bandit:~$ nc -lnvp 5050 <<< "VxCazJaVykI6W36BkBU0mJTCM8rR95XT" &
+[1] 2878975
+bandit20@bandit:~$ Listening on 0.0.0.0 5050
 
+bandit20@bandit:~$ jobs
+[1]+  Running                 nc -lnvp 5050 <<< "VxCazJaVykI6W36BkBU0mJTCM8rR95XT" &
+bandit20@bandit:~$ ./suconnect 5050
+Connection received on 127.0.0.1 49050
+Read: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
+Password matches, sending next password
+NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
+[1]+  Done                    nc -lnvp 5050 <<< "VxCazJaVykI6W36BkBU0mJTCM8rR95XT"
+bandit20@bandit:~$
 ```
 
 ### Notas adicionales:
-
+nc -lnvp 5050 <<< "VxCazJaVykI6W36BkBU0mJTCM8rR95XT" &
+ahi abrimos un puerto y lo dejamos a la escucha en segudo plano
 
 
 ### Referencias:

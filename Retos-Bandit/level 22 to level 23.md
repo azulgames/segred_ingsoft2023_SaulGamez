@@ -9,7 +9,7 @@ A program is running automatically at regular intervals from **cron**, the time
 ```
 Host: bandit.labs.overthewire.org  
 user: bandit22
-pasword: *
+pasword: NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
 Port: 2220
 ```
 
@@ -25,7 +25,6 @@ ssh bandit22@bandit.labs.overthewire.org -p 2220
 ```
 
 ### Notas adicionales:
-
 
 
 ### Referencias:

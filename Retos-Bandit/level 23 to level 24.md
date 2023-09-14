@@ -11,7 +11,7 @@ A program is running automatically at regular intervals from **cron**, the time
 ```
 Host: bandit.labs.overthewire.org  
 user: bandit23
-pasword: *
+pasword: WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
 Port: 2220
 ```
 
