@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos web picoCTF/Parte 1/6. Cliente-side-again.md",
+                "file": "Más/Enhance!.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos web picoCTF/Parte 1/6. Cliente-side-again.md",
+                "file": "Más/Enhance!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos web picoCTF/Parte 1/6. Cliente-side-again.md",
+                "file": "Más/Enhance!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos web picoCTF/Parte 1/6. Cliente-side-again.md"
+                "file": "Más/Enhance!.md"
               }
             }
           },
@@ -158,41 +158,41 @@
   },
   "active": "2252ea7ec6dff02c",
   "lastOpenFiles": [
-    "Retos-Bandit web/Plantilla.md",
-    "Retos-Bandit web/Level 9 to level 10.md",
-    "Retos-Bandit web/Level 8 to level 9.md",
-    "Retos-Bandit web/Level 7 to level 8.md",
-    "Retos-Bandit web/Level 6 to level 7.md",
-    "Retos-Bandit web/Level 5 to level 6.md",
-    "Retos-Bandit web/Level 4 to level 5.md",
-    "Retos-Bandit web/level 33.md",
-    "Retos-Bandit web/level 32 to level 33.md",
-    "Retos-Bandit web/level 31 to level 32.md",
+    "Retos web picoCTF/Parte 1/5. Picobrowser.md",
+    "Más/Enhance!.md",
+    "Enhance!.md",
+    "Plantilla.md",
     "Retos-Bandit web/level 30 to level 31.md",
-    "Retos-Bandit web/Level 3 to level 4.md",
-    "Retos-Bandit web/level 29 to level 30.md",
-    "Retos-Bandit web/level 28 to level 29.md",
-    "Retos-Bandit web/level 27 to level 28.md",
-    "Retos-Bandit web/level 26 to level 27.md",
-    "Retos-Bandit web/Level 25 to level 26.md",
-    "Retos-Bandit web/level 24 to level 25.md",
-    "Retos-Bandit web/level 23 to level 24.md",
-    "Retos-Bandit web/level 22 to level 23.md",
-    "Retos-Bandit web/level 21 to level 22.md",
-    "Retos-Bandit web/level 20 to level 21.md",
-    "Retos-Bandit web/Level 2 to level 3.md",
-    "Retos-Bandit web/level 19 to level 20.md",
-    "Retos-Bandit web/level 18 to level 19.md",
-    "Retos-Bandit web/level 17 to level 18.md",
+    "Retos-Bandit web/level 31 to level 32.md",
+    "Retos-Bandit web/level 32 to level 33.md",
+    "Retos-Bandit web/level 33.md",
+    "Primer examen parcial/Parte 1/8. Warmed up.md",
+    "Primer examen parcial/Parte 2/1. 2Warm.md",
+    "Primer examen parcial/Parte 2/2 .Bases.md",
+    "Primer examen parcial/Parte 2/3. Codebook.md",
+    "Primer examen parcial/Parte 2/4. Convertmepy.md",
+    "Primer examen parcial/Parte 2/5. First Grep.md",
+    "Primer examen parcial/Parte 2/6. Fixme1.py.md",
+    "Primer examen parcial/Parte 2/7. Strings it.md",
+    "Primer examen parcial/Parte 2/8. What's a net cat.md",
+    "Primer examen parcial/Parte 3/1. Fixme2py.md",
+    "Primer examen parcial/Parte 3/2. Glich Cat.md",
+    "Primer examen parcial/Parte 3/3. PW Crack 1.md",
+    "Primer examen parcial/Parte 3/4. PW Crack 2.md",
+    "Primer examen parcial/Parte 3/5. PW Crack 3.md",
+    "Primer examen parcial/Parte 3/6. Runme.py.md",
+    "Primer examen parcial/Parte 3/7. Based.md",
+    "Primer examen parcial/Parte 3/8. Plumbing.md",
+    "Más/Lookey here.md",
+    "Más",
+    "retos menchacas/Nuevo documento de texto.txt",
+    "retos menchacas",
+    "Nueva carpeta",
     "Retos-Bandit web",
     "Primer examen parcial/Parte 3.rar",
     "Instalacion de herramientas.pdf",
     "Retos web picoCTF/Parte 1",
     "Retos web picoCTF/Nueva carpeta",
-    "Primer examen parcial/Parte 3",
-    "Primer examen parcial/Parte 2",
-    "Primer examen parcial/Parte 1",
-    "Primer examen parcial",
-    "Retos web picoCTF"
+    "Primer examen parcial/Parte 3"
   ]
 }
