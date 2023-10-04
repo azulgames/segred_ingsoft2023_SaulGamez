@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Más/Enhance!.md",
+                "file": "Retos web picoCTF/Parte 2/4. JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Más/Enhance!.md",
+                "file": "Retos web picoCTF/Parte 2/4. JaWT Scratchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Más/Enhance!.md",
+                "file": "Retos web picoCTF/Parte 2/4. JaWT Scratchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Más/Enhance!.md"
+                "file": "Retos web picoCTF/Parte 2/4. JaWT Scratchpad.md"
               }
             }
           },
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +157,13 @@
   },
   "active": "2252ea7ec6dff02c",
   "lastOpenFiles": [
-    "Retos web picoCTF/Parte 1/5. Picobrowser.md",
+    "Retos web picoCTF/Parte 2/2. Irish-Name-Repo 2.md",
+    "Instalacion de herramientas.pdf",
+    "Retos web picoCTF/Parte 2/4. JaWT Scratchpad.md",
+    "Retos web picoCTF/Parte 2/3. Irish-Name-Repo 3.md",
+    "Retos web picoCTF/Parte 2/1. Irish-Name-Repo 1.md",
     "Más/Enhance!.md",
+    "Retos web picoCTF/Parte 1/5. Picobrowser.md",
     "Enhance!.md",
     "Plantilla.md",
     "Retos-Bandit web/level 30 to level 31.md",
@@ -179,18 +183,12 @@
     "Primer examen parcial/Parte 3/2. Glich Cat.md",
     "Primer examen parcial/Parte 3/3. PW Crack 1.md",
     "Primer examen parcial/Parte 3/4. PW Crack 2.md",
-    "Primer examen parcial/Parte 3/5. PW Crack 3.md",
-    "Primer examen parcial/Parte 3/6. Runme.py.md",
-    "Primer examen parcial/Parte 3/7. Based.md",
-    "Primer examen parcial/Parte 3/8. Plumbing.md",
-    "Más/Lookey here.md",
     "Más",
     "retos menchacas/Nuevo documento de texto.txt",
     "retos menchacas",
     "Nueva carpeta",
     "Retos-Bandit web",
     "Primer examen parcial/Parte 3.rar",
-    "Instalacion de herramientas.pdf",
     "Retos web picoCTF/Parte 1",
     "Retos web picoCTF/Nueva carpeta",
     "Primer examen parcial/Parte 3"

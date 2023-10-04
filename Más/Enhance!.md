@@ -148,11 +148,13 @@ parece que las ultimas 2 etiquetas de id contienen partes de la bandera
          id="tspan3752">c 3 d _ 2 4 3 7 4 6 7 5 }</tspan></text>
 ```
 
-le quitamos los espacios 
+le quitamos los espacios y obtenemos la bandera
 
+
+picoCTF{3nh4nc3d_24374675}
 
 ### Notas adicionales:
 
 
-
 ### Referencias:
+swg format: https://www.file-extension.info/es/format/swg
