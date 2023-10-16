@@ -7,13 +7,15 @@ What is a hex editor?
 
 ### Solución 
 
-``` bash
+Descagamos el archivo y lo ejecutamos con el editor exadecimal
+buscamos con ctrl+w pico para ver la contraseña
 
+``` bash
+hexeditor garden.jpg
+here is a flag "picoCTF{more_than_m33ts_the_3y3eBdBd2cc}"
 ```
 
 ### Notas adicionales:
-
-
 
 ### Referencias:
 Editor hexadecimal: https://es.wikipedia.org/wiki/Editor_hexadecimal

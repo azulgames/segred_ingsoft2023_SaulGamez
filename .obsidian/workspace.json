@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos web picoCTF/Parte 3/Scavenger Hunt.md",
+                "file": "Retos web picoCTF/Retos Forensic parte 1/What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos web picoCTF/Parte 3/Scavenger Hunt.md",
+                "file": "Retos web picoCTF/Retos Forensic parte 1/What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos web picoCTF/Parte 3/Scavenger Hunt.md",
+                "file": "Retos web picoCTF/Retos Forensic parte 1/What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos web picoCTF/Parte 3/Scavenger Hunt.md"
+                "file": "Retos web picoCTF/Retos Forensic parte 1/What Lies Within.md"
               }
             }
           },
@@ -156,14 +156,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "475deaa8be4b17a0",
+  "active": "964b1781165a060f",
   "lastOpenFiles": [
-    "Retos web picoCTF/Parte 3",
+    "pico/buildings.png",
+    "Retos web picoCTF/Retos Forensic parte 1/Extensions.md",
+    "pico/flag.PNG",
+    "pico/flag.txt",
+    "Retos web picoCTF/Retos Forensic parte 1/Shark on wire 1.md",
+    "pico/capture.pcap",
+    "Retos web picoCTF/Retos Forensic parte 1/So Meta.md",
+    "Retos web picoCTF/Retos Forensic parte 1/Glory of the garden.md",
+    "pico/garden.jpg",
+    "Retos web picoCTF/Retos Forensic parte 1/What Lies Within.md",
+    "pico",
+    "Retos web picoCTF/Retos Forensic parte 1",
+    "Más/Plantilla.md",
+    "Más/Lookey here.md",
+    "Retos web picoCTF/Parte 3/Scavenger Hunt.md",
     "Retos web picoCTF/Parte 3/Enhance!.md",
-    "Más/GET aHEAD.md",
     "Retos web picoCTF/Parte 3/Cookies.md",
-    "Más/So Meta.md",
-    "Más/Glory of the garden.md",
+    "Más/GET aHEAD.md",
+    "Retos web picoCTF/Parte 3",
     "Retos-Bandit web/level 30 to level 31.md",
     "Retos-Bandit web/level 28 to level 29.md",
     "Retos-Bandit web/level 27 to level 28.md",
@@ -174,25 +187,14 @@
     "Retos web picoCTF/Parte 1/4. Dont-use-client-side.md",
     "Retos web picoCTF/Parte 2/2. Irish-Name-Repo 2.md",
     "Retos web picoCTF/Parte 2/3. Irish-Name-Repo 3.md",
-    "Más/Lookey here.md",
-    "Más/Plantilla.md",
-    "Retos web picoCTF/Parte 3/Scavenger Hunt.md",
     "Participacion CTF MetaRed Fase 2/1. Discord.md",
     "Participacion CTF MetaRed Fase 2/2..md",
     "Retos web picoCTF/Parte 2/4. JaWT Scratchpad.md",
     "Retos web picoCTF/Parte 2/1. Irish-Name-Repo 1.md",
     "Instalacion de herramientas.pdf",
-    "Retos web picoCTF/Parte 1/5. Picobrowser.md",
-    "Enhance!.md",
-    "Plantilla.md",
     "Más",
     "retos menchacas/Nuevo documento de texto.txt",
     "retos menchacas",
-    "Nueva carpeta",
-    "Retos-Bandit web",
-    "Primer examen parcial/Parte 3.rar",
-    "Retos web picoCTF/Parte 1",
-    "Retos web picoCTF/Nueva carpeta",
-    "Primer examen parcial/Parte 3"
+    "Nueva carpeta"
   ]
 }
