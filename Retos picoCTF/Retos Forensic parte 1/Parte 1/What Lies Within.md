@@ -13,14 +13,19 @@ y obtenemos la bandera
 picoCTF{h1d1ng_1n_th3_b1t5}
 
 
-también podemos utilizar una herramienta de linux en rubi, para decodificar la bandera
+## Solucion con zsteg
+
+También podemos utilizar una herramienta de linux en ruby, para decodificar la bandera
+
 ``` bash
-zsteg -a buildings.png
+──(kali㉿kali)-[~/hacking/pico]
+└─$ zsteg -a buildings.png 
+b1,r,lsb,xy         .. text: "^5>R5YZrG"
+b1,rgb,lsb,xy       .. text: "picoCTF{h1d1ng_1n_th3_b1t5}"
+
 ```
 
 ### Notas adicionales:
-
-
 
 ### Referencias:
 decodificador de stegonografia online: https://stylesuxx.github.io/steganography/
