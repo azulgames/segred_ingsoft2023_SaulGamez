@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "964b1781165a060f",
+            "id": "dce251d67344cadf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Retos picoCTF/Retos Forensic parte 1/Parte 2/C0rrupt.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 268.5
   },
   "right": {
     "id": "0c5a5a4e727ce5e4",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Retos picoCTF/Retos Forensic parte 1/Parte 2/C0rrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Retos picoCTF/Retos Forensic parte 1/Parte 2/C0rrupt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Retos picoCTF/Retos Forensic parte 1/Parte 2/C0rrupt.md"
+              }
             }
           },
           {
@@ -148,15 +156,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "964b1781165a060f",
+  "active": "dce251d67344cadf",
   "lastOpenFiles": [
+    "Retos picoCTF/Retos Forensic parte 1/Parte 2/like1000.md",
+    "Retos picoCTF/Retos Forensic parte 1/Parte 2/m00nwalk.md",
+    "Retos picoCTF/Retos Forensic parte 1/Parte 2/Shark on wire 2.md",
+    "Retos picoCTF/Retos Forensic parte 1/Parte 2/WhitePages.md",
+    "Retos picoCTF/Retos Forensic parte 1/Parte 1/Shark on wire 1.md",
+    "Retos picoCTF/Retos Forensic parte 1/Parte 2/C0rrupt.md",
+    "Retos picoCTF/Retos Forensic parte 1/Parte 1/What Lies Within.md",
+    "Más/Plantilla.md",
     "Retos picoCTF/Retos Forensic parte 1/Parte 2",
     "Retos picoCTF/Retos Forensic parte 1/Nueva carpeta",
     "Retos picoCTF/Retos Forensic parte 1/Parte 1/Glory of the garden.md",
     "Retos picoCTF/Retos Forensic parte 1/Parte 1/Extensions.md",
-    "Retos picoCTF/Retos Forensic parte 1/Parte 1/What Lies Within.md",
     "Retos picoCTF/Retos Forensic parte 1/Parte 1/So Meta.md",
-    "Retos picoCTF/Retos Forensic parte 1/Parte 1/Shark on wire 1.md",
     "Retos picoCTF/Retos Forensic parte 1/Parte 1",
     "Retos picoCTF/Retos web/Parte 3/Scavenger Hunt.md",
     "Retos picoCTF/Retos web/Parte 3/Enhance!.md",
@@ -178,14 +192,8 @@
     "Retos picoCTF/Nueva carpeta",
     "Retos-Bandit/Plantilla.md",
     "Retos-Bandit/Level 9 to level 10.md",
-    "Retos-Bandit/Level 8 to level 9.md",
-    "Retos-Bandit/Level 7 to level 8.md",
-    "Retos-Bandit/Level 6 to level 7.md",
-    "Retos-Bandit/Level 5 to level 6.md",
-    "Retos-Bandit/Level 4 to level 5.md",
     "Retos-Bandit",
     "Retos picoCTF/Retos Forensic parte 1",
-    "Retos picoCTF/Parte 3",
     "pico/buildings.png",
     "pico/flag.PNG",
     "pico/garden.jpg"
