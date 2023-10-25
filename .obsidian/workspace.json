@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos picoCTF/Retos Forensic/Parte 3/WebNet1.md",
+                "file": "Segundo examen parcial/Parte 1/9. SQL Direct.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos picoCTF/Retos Forensic/Parte 3/WebNet1.md",
+                "file": "Segundo examen parcial/Parte 1/9. SQL Direct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos picoCTF/Retos Forensic/Parte 3/WebNet1.md",
+                "file": "Segundo examen parcial/Parte 1/9. SQL Direct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos picoCTF/Retos Forensic/Parte 3/WebNet1.md"
+                "file": "Segundo examen parcial/Parte 1/9. SQL Direct.md"
               }
             }
           },
@@ -158,42 +158,42 @@
   },
   "active": "dce251d67344cadf",
   "lastOpenFiles": [
-    "Retos picoCTF/Retos Forensic/Parte 3/WebNet0.md",
-    "Retos picoCTF/Retos Forensic/Parte 3/tunn3l v1s10n.md",
-    "Retos picoCTF/Retos Forensic/Parte 3/Matryoshka doll.md",
-    "Retos picoCTF/Retos Forensic/Parte 3/MacroHard WeakEdge.md",
+    "Segundo examen parcial/Parte 1/8. Secrets.md",
+    "Segundo examen parcial/Parte 1/7. Roboto Sans.md",
+    "Segundo examen parcial/Parte 1/6. Power Cookie.md",
+    "Segundo examen parcial/Parte 1/1. Includes.md",
+    "Segundo examen parcial/Parte 1/5. Forbidden Paths.md",
+    "Segundo examen parcial/Parte 1/4. Search source.md",
+    "Segundo examen parcial/Parte 1/3. Local Autority.md",
+    "Segundo examen parcial/Parte 1/2. Inspect HTML.md",
+    "Segundo examen parcial/Parte 2/Lookey here.md",
+    "Segundo examen parcial/Parte 2/Packets Primer.md",
+    "Segundo examen parcial/Parte 2/Redaction gone wrong.md",
+    "Segundo examen parcial/Parte 2/information.md",
+    "Segundo examen parcial/Parte 2/Enhance!.md",
+    "Segundo examen parcial/Parte 2/st3g0.md",
     "Retos picoCTF/Retos Forensic/Parte 3/WebNet1.md",
-    "Retos picoCTF/Retos Forensic/Parte 3/Plantilla - copia (5).md",
-    "Retos picoCTF/Retos Forensic/Parte 3/Plantilla - copia (4).md",
-    "Retos picoCTF/Retos Forensic/Parte 3/Plantilla - copia (3).md",
-    "Retos picoCTF/Retos Forensic/Parte 3/Plantilla - copia (2).md",
-    "Retos picoCTF/Retos Forensic/Parte 3/Plantilla - copia.md",
-    "Retos picoCTF/Retos Forensic/Parte 3/Plantilla.md",
+    "Más/Plantilla.md",
+    "Segundo examen parcial/Parte 2/Wireshark doo dooo do doo.md",
+    "Segundo examen parcial/Parte 2/Plantilla - copia (5).md",
+    "Segundo examen parcial/Parte 2/Plantilla - copia (4).md",
+    "Segundo examen parcial/Parte 2/Plantilla - copia (3).md",
+    "Segundo examen parcial/Parte 2/Plantilla - copia (2).md",
+    "Segundo examen parcial/Parte 2/Plantilla - copia.md",
+    "Segundo examen parcial/Parte 2/Plantilla.md",
+    "Segundo examen parcial/Parte 1/9. SQL Direct.md",
+    "Segundo examen parcial/Parte 1/Plantilla - copia.md",
+    "Segundo examen parcial/Parte 1/Inspect HTMP.md",
+    "Segundo examen parcial/Parte 2",
+    "Segundo examen parcial/Parte 1 - copia",
+    "Segundo examen parcial/Parte 1",
+    "Segundo examen parcial/Nueva carpeta",
+    "Segundo examen parcial",
+    "Nueva carpeta",
     "Retos picoCTF/Retos Forensic/Parte 3",
     "Retos picoCTF/Retos Forensic/Nueva carpeta",
-    "Retos picoCTF/Retos Forensic parte 1/Parte 2/C0rrupt.md",
-    "Retos picoCTF/Retos Forensic/Parte 2/WhitePages.md",
-    "Retos picoCTF/Retos Forensic/Parte 2/Shark on wire 2.md",
-    "Retos picoCTF/Retos Forensic/Parte 2/m00nwalk.md",
-    "Retos picoCTF/Retos Forensic/Parte 2/like1000.md",
-    "Retos picoCTF/Retos Forensic/Parte 2/C0rrupt.md",
-    "Retos picoCTF/Retos Forensic/Parte 1/What Lies Within.md",
-    "Retos picoCTF/Retos Forensic/Parte 1/So Meta.md",
-    "Retos picoCTF/Retos Forensic/Parte 1/Shark on wire 1.md",
-    "Retos picoCTF/Retos Forensic/Parte 1/Glory of the garden.md",
-    "Retos picoCTF/Retos Forensic/Parte 1/Extensions.md",
     "Retos picoCTF/Retos Forensic/Parte 2",
     "Retos picoCTF/Retos Forensic/Parte 1",
-    "Retos picoCTF/Retos Forensic",
-    "Retos picoCTF/Retos Forensic parte 1/Parte 2/like1000.md",
-    "Retos picoCTF/Retos Forensic parte 1/Parte 2/m00nwalk.md",
-    "Retos picoCTF/Retos Forensic parte 1/Parte 2/Shark on wire 2.md",
-    "Retos picoCTF/Retos Forensic parte 1/Parte 2/WhitePages.md",
-    "Retos picoCTF/Retos Forensic parte 1/Parte 2",
-    "Retos picoCTF/Retos Forensic parte 1/Nueva carpeta",
-    "Retos picoCTF/Retos Forensic parte 1/Parte 1",
-    "Retos picoCTF/Retos web/Parte 3",
-    "Retos picoCTF/Retos web/Parte 2",
     "pico/buildings.png",
     "pico/flag.PNG",
     "pico/garden.jpg"
