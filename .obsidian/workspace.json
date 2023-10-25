@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos picoCTF/Retos Crypto/Parte 1/7. waves over lambda.md",
+                "file": "Segundo examen parcial/Parte 2/information.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos picoCTF/Retos Crypto/Parte 1/7. waves over lambda.md",
+                "file": "Segundo examen parcial/Parte 2/information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos picoCTF/Retos Crypto/Parte 1/7. waves over lambda.md",
+                "file": "Segundo examen parcial/Parte 2/information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos picoCTF/Retos Crypto/Parte 1/7. waves over lambda.md"
+                "file": "Segundo examen parcial/Parte 2/information.md"
               }
             }
           },
@@ -158,14 +158,25 @@
   },
   "active": "dce251d67344cadf",
   "lastOpenFiles": [
-    "Retos picoCTF/Retos Crypto/Parte 1/6. Tapping.md",
+    "Retos picoCTF/Retos Forensic/Parte 1/So Meta.md",
+    "Segundo examen parcial/Parte 2/information.md",
+    "Segundo examen parcial/Parte 2/Enhance!.md",
+    "Segundo examen parcial/Parte 2/Wireshark doo dooo do doo.md",
+    "Segundo examen parcial/Parte 2/Redaction gone wrong.md",
     "Retos picoCTF/Retos Crypto/Parte 1/5. La cifra de.md",
+    "Segundo examen parcial/Parte 2/Packets Primer.md",
+    "Retos picoCTF/Retos Crypto/Parte 1/1. The Numbers.md",
+    "Segundo examen parcial/Parte 2/st3g0.md",
+    "Retos picoCTF/Retos Crypto/Parte 1/6. Tapping.md",
+    "Retos picoCTF/Retos Crypto/Parte 1/7. waves over lambda.md",
+    "Retos picoCTF/Retos Forensic/Parte 1/What Lies Within.md",
+    "Retos picoCTF/Retos Forensic/Parte 1/Extensions.md",
     "Retos picoCTF/Retos Crypto/Parte 1/4. Caesar.md",
+    "Retos picoCTF/Retos Forensic/Parte 1/Shark on wire 1.md",
+    "Retos picoCTF/Retos Forensic/Parte 1/Glory of the garden.md",
     "Retos picoCTF/Retos Crypto/Parte 1/3. 13.md",
     "Retos picoCTF/Retos Crypto/Parte 1/2. Easy1.md",
-    "Retos picoCTF/Retos Crypto/Parte 1/1. The Numbers.md",
     "Segundo examen parcial/Parte 1/9. SQL Direct.md",
-    "Retos picoCTF/Retos Crypto/Parte 1/7. waves over lambda.md",
     "Retos picoCTF/Retos Crypto/Parte 1/Plantilla - copia (7).md",
     "Retos picoCTF/Retos Crypto/Parte 1/Plantilla - copia (6).md",
     "Retos picoCTF/Retos Crypto/Parte 1/Plantilla - copia (5).md",
@@ -173,21 +184,10 @@
     "Retos picoCTF/Retos Crypto/Parte 1/Plantilla - copia (3).md",
     "Retos picoCTF/Retos Crypto/Parte 1/Plantilla - copia (2).md",
     "Retos picoCTF/Retos Crypto/Parte 1/Plantilla - copia.md",
-    "Retos picoCTF/Retos Crypto/Parte 1/Plantilla.md",
     "Retos picoCTF/Retos Crypto/Parte 1",
     "Retos picoCTF/Retos Crypto/Nueva carpeta",
     "Retos picoCTF/Retos Crypto",
     "Retos picoCTF/Nueva carpeta",
-    "Segundo examen parcial/Parte 1/8. Secrets.md",
-    "Segundo examen parcial/Parte 1/7. Roboto Sans.md",
-    "Segundo examen parcial/Parte 1/6. Power Cookie.md",
-    "Segundo examen parcial/Parte 1/1. Includes.md",
-    "Segundo examen parcial/Parte 1/5. Forbidden Paths.md",
-    "Segundo examen parcial/Parte 1/4. Search source.md",
-    "Segundo examen parcial/Parte 1/3. Local Autority.md",
-    "Segundo examen parcial/Parte 1/2. Inspect HTML.md",
-    "Segundo examen parcial/Parte 2/Lookey here.md",
-    "Segundo examen parcial/Parte 2/Packets Primer.md",
     "Segundo examen parcial/Parte 2",
     "Segundo examen parcial/Parte 1 - copia",
     "Segundo examen parcial/Parte 1",

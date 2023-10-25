@@ -155,6 +155,5 @@ picoCTF{3nh4nc3d_24374675}
 
 ### Notas adicionales:
 
-
 ### Referencias:
 swg format: https://www.file-extension.info/es/format/swg
