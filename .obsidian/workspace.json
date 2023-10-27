@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segundo examen parcial/Parte 2/information.md",
+                "file": "Retos picoCTF/Retos Crypto/Parte 2/b00tl3gRSA3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segundo examen parcial/Parte 2/information.md",
+                "file": "Retos picoCTF/Retos Crypto/Parte 2/b00tl3gRSA3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segundo examen parcial/Parte 2/information.md",
+                "file": "Retos picoCTF/Retos Crypto/Parte 2/b00tl3gRSA3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segundo examen parcial/Parte 2/information.md"
+                "file": "Retos picoCTF/Retos Crypto/Parte 2/b00tl3gRSA3.md"
               }
             }
           },
@@ -158,8 +158,14 @@
   },
   "active": "dce251d67344cadf",
   "lastOpenFiles": [
-    "Retos picoCTF/Retos Forensic/Parte 1/So Meta.md",
+    "Retos picoCTF/Retos Crypto/Parte 2/rsa-pop-quiz.md",
+    "Retos picoCTF/Retos Crypto/Parte 2/miniRSA.md",
+    "Retos picoCTF/Retos Crypto/Parte 2/b00tl3gRSA3.md",
+    "Más/Plantilla.md",
+    "Más/GET aHEAD.md",
     "Segundo examen parcial/Parte 2/information.md",
+    "Retos picoCTF/Retos Crypto/Parte 2",
+    "Retos picoCTF/Retos Forensic/Parte 1/So Meta.md",
     "Segundo examen parcial/Parte 2/Enhance!.md",
     "Segundo examen parcial/Parte 2/Wireshark doo dooo do doo.md",
     "Segundo examen parcial/Parte 2/Redaction gone wrong.md",
@@ -179,11 +185,6 @@
     "Segundo examen parcial/Parte 1/9. SQL Direct.md",
     "Retos picoCTF/Retos Crypto/Parte 1/Plantilla - copia (7).md",
     "Retos picoCTF/Retos Crypto/Parte 1/Plantilla - copia (6).md",
-    "Retos picoCTF/Retos Crypto/Parte 1/Plantilla - copia (5).md",
-    "Retos picoCTF/Retos Crypto/Parte 1/Plantilla - copia (4).md",
-    "Retos picoCTF/Retos Crypto/Parte 1/Plantilla - copia (3).md",
-    "Retos picoCTF/Retos Crypto/Parte 1/Plantilla - copia (2).md",
-    "Retos picoCTF/Retos Crypto/Parte 1/Plantilla - copia.md",
     "Retos picoCTF/Retos Crypto/Parte 1",
     "Retos picoCTF/Retos Crypto/Nueva carpeta",
     "Retos picoCTF/Retos Crypto",
@@ -193,7 +194,6 @@
     "Segundo examen parcial/Parte 1",
     "Segundo examen parcial/Nueva carpeta",
     "Segundo examen parcial",
-    "Nueva carpeta",
     "pico/buildings.png",
     "pico/flag.PNG",
     "pico/garden.jpg"

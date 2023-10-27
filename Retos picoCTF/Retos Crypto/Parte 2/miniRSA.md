@@ -1,0 +1,71 @@
+##  miniRSA
+
+### Objetivos 
+Let's decrypt this: [ciphertext](https://jupiter.challenges.picoctf.org/static/ee7e2388b45f521b285334abb5a63771/ciphertext)? Something seems a bit small.
+
+### Pistas
+1. How could having too small an e affect the security of this 2048 bit key?
+2. Make sure you don't lose precision, the numbers are pretty big (besides the e value)
+
+### Solución
+
+- descargamos el archivo y vemos que es texto encriptado en RSA asi que creamos un script de python para desencriptarlo
+
+``` bash
+┌──(kali㉿kali)-[~]
+└─$ cat ciphertext                       
+
+N: 29331922499794985782735976045591164936683059380558950386560160105740343201513369939006307531165922708949619162698623675349030430859547825708994708321803705309459438099340427770580064400911431856656901982789948285309956111848686906152664473350940486507451771223435835260168971210087470894448460745593956840586530527915802541450092946574694809584880896601317519794442862977471129319781313161842056501715040555964011899589002863730868679527184420789010551475067862907739054966183120621407246398518098981106431219207697870293412176440482900183550467375190239898455201170831410460483829448603477361305838743852756938687673
+e: 3
+
+ciphertext (c): 2205316413931134031074603746928247799030155221252519872649649212867614751848436763801274360463406171277838056821437115883619169702963504606017565783537203207707757768473109845162808575425972525116337319108047893250549462147185741761825125
+```
+
+
+script de python:
+``` python
+Python 3.11.5 (main, Aug 29 2023, 15:31:31) [GCC 13.2.0] on linux
+
+>>> from gmpy2 import *
+>>> from Crypto.Util.number import long_to_bytes
+>>> gmpy.get_context().precision=2048
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'gmpy' is not defined. Did you mean: 'gmpy2'?
+>>> gmpy2.get_context().precision=2048
+>>> e = 3
+>>> c = 2205316413931134031074603746928247799030155221252519872649649212867614751848436763801274360463406171277838056821437115883619169702963504606017565783537203207707757768473109845162808575425972525116337319108047893250549462147185741761825125 
+>>> root, exact = iroot(c, e)
+>>> root
+mpz(13016382529449106065894479374027604750406953699090365388202874238148389207291005)
+>>> print(long_to_bytes(root) )
+b'picoCTF{n33d_a_lArg3r_e_606ce004}'
+```
+
+picoCTF{n33d_a_lArg3r_e_606ce004}
+
+### Notas adicionales:
+
+librerias de python necesarias:
+- pycryptodome
+- gmpy2 
+
+
+c - texto cifrado
+m - mensaje texto plano
+p - primo 1
+q - primo 2
+n - modulo
+tn- totient n (euler)
+e - exponente (llave publica)
+d - llave privada
+
+n = p * q
+tn = (p-1)*(q-1)
+d = e mod inv tn / inverse(e, tn)
+
+encriptar	: c = m^e mod n / pow(m,e,n)
+desencriptar	: m = c^e mod n / pow(c,d,n)
+
+### Referencias:
+RSA [tutorial](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
