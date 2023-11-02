@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos picoCTF/Retos Crypto/Parte 2/b00tl3gRSA3.md",
+                "file": "Retos picoCTF/Retos Crypto/Parte 3/ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos picoCTF/Retos Crypto/Parte 2/b00tl3gRSA3.md",
+                "file": "Retos picoCTF/Retos Crypto/Parte 3/ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos picoCTF/Retos Crypto/Parte 2/b00tl3gRSA3.md",
+                "file": "Retos picoCTF/Retos Crypto/Parte 3/ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos picoCTF/Retos Crypto/Parte 2/b00tl3gRSA3.md"
+                "file": "Retos picoCTF/Retos Crypto/Parte 3/ReadMyCert.md"
               }
             }
           },
@@ -158,11 +158,17 @@
   },
   "active": "dce251d67344cadf",
   "lastOpenFiles": [
+    "Retos picoCTF/Retos Crypto/Parte 3/Mind your Ps and Qs.md",
+    "Retos picoCTF/Retos Crypto/Parte 3/Pixelated.md",
+    "Retos picoCTF/Retos Crypto/Parte 3/ReadMyCert.md",
+    "Retos picoCTF/Retos Crypto/Parte 3/HideToSee.md",
+    "Retos picoCTF/Retos Crypto/Parte 3/basic-mod1.md",
     "Retos picoCTF/Retos Crypto/Parte 2/rsa-pop-quiz.md",
-    "Retos picoCTF/Retos Crypto/Parte 2/miniRSA.md",
     "Retos picoCTF/Retos Crypto/Parte 2/b00tl3gRSA3.md",
-    "Más/Plantilla.md",
     "Más/GET aHEAD.md",
+    "Retos picoCTF/Retos Crypto/Parte 3",
+    "Retos picoCTF/Retos Crypto/Parte 2/miniRSA.md",
+    "Más/Plantilla.md",
     "Segundo examen parcial/Parte 2/information.md",
     "Retos picoCTF/Retos Crypto/Parte 2",
     "Retos picoCTF/Retos Forensic/Parte 1/So Meta.md",
@@ -180,11 +186,6 @@
     "Retos picoCTF/Retos Crypto/Parte 1/4. Caesar.md",
     "Retos picoCTF/Retos Forensic/Parte 1/Shark on wire 1.md",
     "Retos picoCTF/Retos Forensic/Parte 1/Glory of the garden.md",
-    "Retos picoCTF/Retos Crypto/Parte 1/3. 13.md",
-    "Retos picoCTF/Retos Crypto/Parte 1/2. Easy1.md",
-    "Segundo examen parcial/Parte 1/9. SQL Direct.md",
-    "Retos picoCTF/Retos Crypto/Parte 1/Plantilla - copia (7).md",
-    "Retos picoCTF/Retos Crypto/Parte 1/Plantilla - copia (6).md",
     "Retos picoCTF/Retos Crypto/Parte 1",
     "Retos picoCTF/Retos Crypto/Nueva carpeta",
     "Retos picoCTF/Retos Crypto",
@@ -193,7 +194,6 @@
     "Segundo examen parcial/Parte 1 - copia",
     "Segundo examen parcial/Parte 1",
     "Segundo examen parcial/Nueva carpeta",
-    "Segundo examen parcial",
     "pico/buildings.png",
     "pico/flag.PNG",
     "pico/garden.jpg"
