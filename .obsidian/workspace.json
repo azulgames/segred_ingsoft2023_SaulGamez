@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos picoCTF/Retos Crypto/Parte 3/ReadMyCert.md",
+                "file": "Retos picoCTF/Retos Reversing/Parte 1/vault-door-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos picoCTF/Retos Crypto/Parte 3/ReadMyCert.md",
+                "file": "Retos picoCTF/Retos Reversing/Parte 1/vault-door-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos picoCTF/Retos Crypto/Parte 3/ReadMyCert.md",
+                "file": "Retos picoCTF/Retos Reversing/Parte 1/vault-door-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos picoCTF/Retos Crypto/Parte 3/ReadMyCert.md"
+                "file": "Retos picoCTF/Retos Reversing/Parte 1/vault-door-1.md"
               }
             }
           },
@@ -158,42 +158,42 @@
   },
   "active": "dce251d67344cadf",
   "lastOpenFiles": [
+    "Retos picoCTF/Retos Reversing/Parte 1/vault-door-3.md",
+    "Retos picoCTF/Retos Reversing/Parte 1/vault-door-4.md",
+    "Retos picoCTF/Retos Reversing/Parte 1/vault-door-training.md",
+    "Retos picoCTF/Retos Reversing/Parte 1/vault-door-5.md",
+    "Retos picoCTF/Retos Reversing/Parte 1/vault-door-1.md",
+    "Retos picoCTF/Retos Reversing/Parte 1/vault-door-4 - copia.md",
+    "Más/Plantilla.md",
+    "Retos picoCTF/Retos Reversing/Parte 2/asm3.md",
+    "Retos picoCTF/Retos Reversing/Parte 2/asm2.md",
+    "Retos picoCTF/Retos Reversing/Parte 2/asm1.md",
+    "Retos picoCTF/Retos Reversing/Parte 2/Plantilla - copia (3).md",
+    "Retos picoCTF/Retos Reversing/Parte 2/Plantilla - copia (2).md",
+    "Retos picoCTF/Retos Reversing/Parte 2/Plantilla - copia.md",
+    "Retos picoCTF/Retos Reversing/Plantilla.md",
+    "Retos picoCTF/Retos Reversing/Parte 2/Plantilla.md",
+    "Retos picoCTF/Retos Reversing/Parte 2",
+    "Retos picoCTF/Retos Reversing/Nueva carpeta",
+    "Retos picoCTF/Retos Reversing/Parte 1",
+    "Retos picoCTF/Retos Reversing/Parte",
+    "Retos picoCTF/Retos Reversing/vault-door-4.md",
+    "Retos picoCTF/Retos Reversing/vault-door-3.md",
+    "Retos picoCTF/Retos Reversing/vault-door-1.md",
+    "Retos picoCTF/Retos Reversing/vault-door-training.md",
+    "Retos picoCTF/Retos Reversing/Plantilla - copia (4).md",
+    "Retos picoCTF/Retos Reversing/Plantilla - copia (3).md",
+    "Retos picoCTF/Retos Reversing/Plantilla - copia (2).md",
+    "Retos picoCTF/Retos Reversing/Plantilla - copia.md",
+    "Retos picoCTF/Nueva carpeta",
+    "Retos picoCTF/Retos Crypto/Parte 3/ReadMyCert.md",
+    "Retos picoCTF/Retos Reversing",
     "Retos picoCTF/Retos Crypto/Parte 3/Mind your Ps and Qs.md",
     "Retos picoCTF/Retos Crypto/Parte 3/Pixelated.md",
-    "Retos picoCTF/Retos Crypto/Parte 3/ReadMyCert.md",
-    "Retos picoCTF/Retos Crypto/Parte 3/HideToSee.md",
-    "Retos picoCTF/Retos Crypto/Parte 3/basic-mod1.md",
-    "Retos picoCTF/Retos Crypto/Parte 2/rsa-pop-quiz.md",
-    "Retos picoCTF/Retos Crypto/Parte 2/b00tl3gRSA3.md",
-    "Más/GET aHEAD.md",
     "Retos picoCTF/Retos Crypto/Parte 3",
-    "Retos picoCTF/Retos Crypto/Parte 2/miniRSA.md",
-    "Más/Plantilla.md",
-    "Segundo examen parcial/Parte 2/information.md",
     "Retos picoCTF/Retos Crypto/Parte 2",
-    "Retos picoCTF/Retos Forensic/Parte 1/So Meta.md",
-    "Segundo examen parcial/Parte 2/Enhance!.md",
-    "Segundo examen parcial/Parte 2/Wireshark doo dooo do doo.md",
-    "Segundo examen parcial/Parte 2/Redaction gone wrong.md",
-    "Retos picoCTF/Retos Crypto/Parte 1/5. La cifra de.md",
-    "Segundo examen parcial/Parte 2/Packets Primer.md",
-    "Retos picoCTF/Retos Crypto/Parte 1/1. The Numbers.md",
-    "Segundo examen parcial/Parte 2/st3g0.md",
-    "Retos picoCTF/Retos Crypto/Parte 1/6. Tapping.md",
-    "Retos picoCTF/Retos Crypto/Parte 1/7. waves over lambda.md",
-    "Retos picoCTF/Retos Forensic/Parte 1/What Lies Within.md",
-    "Retos picoCTF/Retos Forensic/Parte 1/Extensions.md",
-    "Retos picoCTF/Retos Crypto/Parte 1/4. Caesar.md",
-    "Retos picoCTF/Retos Forensic/Parte 1/Shark on wire 1.md",
-    "Retos picoCTF/Retos Forensic/Parte 1/Glory of the garden.md",
     "Retos picoCTF/Retos Crypto/Parte 1",
     "Retos picoCTF/Retos Crypto/Nueva carpeta",
-    "Retos picoCTF/Retos Crypto",
-    "Retos picoCTF/Nueva carpeta",
-    "Segundo examen parcial/Parte 2",
-    "Segundo examen parcial/Parte 1 - copia",
-    "Segundo examen parcial/Parte 1",
-    "Segundo examen parcial/Nueva carpeta",
     "pico/buildings.png",
     "pico/flag.PNG",
     "pico/garden.jpg"
