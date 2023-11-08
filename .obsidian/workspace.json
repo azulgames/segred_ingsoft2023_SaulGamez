@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos picoCTF/Retos Reversing/Parte 1/vault-door-1.md",
+                "file": "Retos picoCTF/Retos Reversing/Parte 2/asm1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos picoCTF/Retos Reversing/Parte 1/vault-door-1.md",
+                "file": "Retos picoCTF/Retos Reversing/Parte 2/asm1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos picoCTF/Retos Reversing/Parte 1/vault-door-1.md",
+                "file": "Retos picoCTF/Retos Reversing/Parte 2/asm1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos picoCTF/Retos Reversing/Parte 1/vault-door-1.md"
+                "file": "Retos picoCTF/Retos Reversing/Parte 2/asm1.md"
               }
             }
           },
@@ -158,16 +158,16 @@
   },
   "active": "dce251d67344cadf",
   "lastOpenFiles": [
+    "Retos picoCTF/Retos Reversing/Parte 2/asm2.md",
+    "Retos picoCTF/Retos Reversing/Parte 2/asm3.md",
+    "Retos picoCTF/Retos Reversing/Parte 2/asm1.md",
+    "Retos picoCTF/Retos Reversing/Parte 1/vault-door-training.md",
+    "Retos picoCTF/Retos Reversing/Parte 1/vault-door-1.md",
     "Retos picoCTF/Retos Reversing/Parte 1/vault-door-3.md",
     "Retos picoCTF/Retos Reversing/Parte 1/vault-door-4.md",
-    "Retos picoCTF/Retos Reversing/Parte 1/vault-door-training.md",
     "Retos picoCTF/Retos Reversing/Parte 1/vault-door-5.md",
-    "Retos picoCTF/Retos Reversing/Parte 1/vault-door-1.md",
     "Retos picoCTF/Retos Reversing/Parte 1/vault-door-4 - copia.md",
     "Más/Plantilla.md",
-    "Retos picoCTF/Retos Reversing/Parte 2/asm3.md",
-    "Retos picoCTF/Retos Reversing/Parte 2/asm2.md",
-    "Retos picoCTF/Retos Reversing/Parte 2/asm1.md",
     "Retos picoCTF/Retos Reversing/Parte 2/Plantilla - copia (3).md",
     "Retos picoCTF/Retos Reversing/Parte 2/Plantilla - copia (2).md",
     "Retos picoCTF/Retos Reversing/Parte 2/Plantilla - copia.md",
