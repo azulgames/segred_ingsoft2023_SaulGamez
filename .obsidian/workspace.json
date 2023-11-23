@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos picoCTF/Retos Reversing/Parte 2/asm1.md",
+                "file": "Retos picoCTF/Retos Reversing/Parte 3/Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos picoCTF/Retos Reversing/Parte 2/asm1.md",
+                "file": "Retos picoCTF/Retos Reversing/Parte 3/Safe Opener 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos picoCTF/Retos Reversing/Parte 2/asm1.md",
+                "file": "Retos picoCTF/Retos Reversing/Parte 3/Safe Opener 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos picoCTF/Retos Reversing/Parte 2/asm1.md"
+                "file": "Retos picoCTF/Retos Reversing/Parte 3/Safe Opener 2.md"
               }
             }
           },
@@ -158,6 +158,14 @@
   },
   "active": "dce251d67344cadf",
   "lastOpenFiles": [
+    "Retos picoCTF/Retos Reversing/Parte 3/GDB Test Drive.md",
+    "Retos picoCTF/Retos Reversing/Parte 3/Need for speed.md",
+    "Retos picoCTF/Retos Reversing/Parte 3/Reverse_Cipher.md",
+    "Retos picoCTF/Retos Forensic/Parte 2/m00nwalk.md",
+    "Retos picoCTF/Retos Reversing/Parte 2/asm3.md",
+    "Retos picoCTF/Retos Reversing/Parte 2/asm1.md",
+    "Retos picoCTF/Retos Reversing/Parte 3/Safe Opener 2.md",
+    "Retos picoCTF/Retos Reversing/Parte 2/asm2.md",
     "Plantilla.md",
     "Tercer examen parcial/Parte 2/GDB baby step 2.md",
     "Tercer examen parcial/Parte 2/GDB baby step 1.md",
@@ -176,14 +184,6 @@
     "Tercer examen parcial/Parte 2/Plantilla - copia (2).md",
     "Tercer examen parcial/Parte 2/Plantilla - copia.md",
     "Tercer examen parcial/Parte 2/Plantilla.md",
-    "Tercer examen parcial/Parte 1/SRA.md",
-    "Tercer examen parcial/Parte 1/Mr-Worldwide.md",
-    "Tercer examen parcial/Parte 1/Flags.md",
-    "Tercer examen parcial/Parte 1/Vigenere.md",
-    "Tercer examen parcial/Parte 1/Transposition-trial.md",
-    "Tercer examen parcial/Parte 1/Plantilla - copia (5).md",
-    "Tercer examen parcial/Parte 1/Plantilla - copia (4).md",
-    "Tercer examen parcial/Parte 1/Plantilla - copia (3).md",
     "Tercer examen parcial/Parte 2",
     "Tercer examen parcial/Nueva carpeta",
     "Tercer examen parcial/Parte 1",
