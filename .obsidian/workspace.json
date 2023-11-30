@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos picoCTF/Retos Reversing/Parte 3/Safe Opener 2.md",
+                "file": "Tercer examen parcial/Parte 2/GDB baby step 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos picoCTF/Retos Reversing/Parte 3/Safe Opener 2.md",
+                "file": "Tercer examen parcial/Parte 2/GDB baby step 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos picoCTF/Retos Reversing/Parte 3/Safe Opener 2.md",
+                "file": "Tercer examen parcial/Parte 2/GDB baby step 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos picoCTF/Retos Reversing/Parte 3/Safe Opener 2.md"
+                "file": "Tercer examen parcial/Parte 2/GDB baby step 2.md"
               }
             }
           },
@@ -158,32 +158,32 @@
   },
   "active": "dce251d67344cadf",
   "lastOpenFiles": [
+    "Tercer examen parcial/Parte 2/GDB baby step 1.md",
+    "Tercer examen parcial/Parte 2/GDB baby step 2.md",
+    "Tercer examen parcial/Parte 2/ASCII FTW.md",
+    "Tercer examen parcial/Parte 2/Bit-O-Asm-1.md",
+    "Tercer examen parcial/Parte 2/Bit-O-Asm-2.md",
+    "Tercer examen parcial/Parte 2/Bit-O-Asm-3.md",
+    "Tercer examen parcial/Parte 2/Bit-O-Asm-4.md",
+    "debugger_A_asm.png.md",
+    "Retos picoCTF/Retos Forensic/Parte 2/m00nwalk.md",
+    "Retos picoCTF/Retos Forensic/Parte 2/Shark on wire 2.md",
+    "Retos picoCTF/Retos Forensic/Parte 2/C0rrupt.md",
+    "Retos picoCTF/Retos Forensic/Parte 2/like1000.md",
+    "Tercer examen parcial/Parte 1/SRA.md",
+    "Tercer examen parcial/Parte 1/Mr-Worldwide.md",
+    "Tercer examen parcial/Parte 1/Flags.md",
+    "Tercer examen parcial/Parte 1/Vigenere.md",
+    "Tercer examen parcial/Parte 1/Transposition-trial.md",
+    "Retos picoCTF/Retos Reversing/Parte 3/Safe Opener 2.md",
     "Retos picoCTF/Retos Reversing/Parte 3/GDB Test Drive.md",
     "Retos picoCTF/Retos Reversing/Parte 3/Need for speed.md",
     "Retos picoCTF/Retos Reversing/Parte 3/Reverse_Cipher.md",
-    "Retos picoCTF/Retos Forensic/Parte 2/m00nwalk.md",
     "Retos picoCTF/Retos Reversing/Parte 2/asm3.md",
     "Retos picoCTF/Retos Reversing/Parte 2/asm1.md",
-    "Retos picoCTF/Retos Reversing/Parte 3/Safe Opener 2.md",
     "Retos picoCTF/Retos Reversing/Parte 2/asm2.md",
     "Plantilla.md",
-    "Tercer examen parcial/Parte 2/GDB baby step 2.md",
-    "Tercer examen parcial/Parte 2/GDB baby step 1.md",
-    "Tercer examen parcial/Parte 2/Bit-O-Asm-2.md",
-    "Tercer examen parcial/Parte 2/Bit-O-Asm-4.md",
-    "Tercer examen parcial/Parte 2/Bit-O-Asm-3.md",
     "Tercer examen parcial/Parte 2/Bit-O-Asm-1 (2).md",
-    "Tercer examen parcial/Parte 2/Bit-O-Asm-1.md",
-    "Tercer examen parcial/Parte 2/ASCII FTW.md",
-    "Tercer examen parcial/Parte 2/Plantilla - copia (8).md",
-    "Tercer examen parcial/Parte 2/Plantilla - copia (7).md",
-    "Tercer examen parcial/Parte 2/Plantilla - copia (6).md",
-    "Tercer examen parcial/Parte 2/Plantilla - copia (5).md",
-    "Tercer examen parcial/Parte 2/Plantilla - copia (4).md",
-    "Tercer examen parcial/Parte 2/Plantilla - copia (3).md",
-    "Tercer examen parcial/Parte 2/Plantilla - copia (2).md",
-    "Tercer examen parcial/Parte 2/Plantilla - copia.md",
-    "Tercer examen parcial/Parte 2/Plantilla.md",
     "Tercer examen parcial/Parte 2",
     "Tercer examen parcial/Nueva carpeta",
     "Tercer examen parcial/Parte 1",

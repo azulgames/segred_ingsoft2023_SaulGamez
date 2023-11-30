@@ -5,7 +5,6 @@
 
 ### Pistas
 
-
 ### Solución 
 
 ``` bash
@@ -13,7 +12,5 @@
 ```
 
 ### Notas adicionales:
-
-
 
 ### Referencias:
